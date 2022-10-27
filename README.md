@@ -32,7 +32,7 @@
 ## 创建Maven项目
 
 1. 点击File->new->Module…
-![image-20221027165946523](C:/Users/Logic-life/AppData/Roaming/Typora/typora-user-images/image-20221027165946523.png)
+   ![](zXingDemo/src/main/resources/image-20221027165946523.png)
 2. 输入项目名称，选择项目位置，选择Maven构建系统，选择对应的JDK。
 3. 即可生成Maven管理项目。
 
