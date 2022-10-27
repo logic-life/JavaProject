@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="google.zxing.core" type="repository">
+    <properties maven-id="com.google.zxing:core:3.5.0" />
+    <CLASSES>
+      <root url="jar://C:/software/JAVAConfig/zxing-zxing-3.4.1/core-3.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

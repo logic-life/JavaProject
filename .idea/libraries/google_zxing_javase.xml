@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="google.zxing.javase" type="repository">
+    <properties maven-id="com.google.zxing:javase:3.5.0" />
+    <CLASSES>
+      <root url="jar://C:/software/JAVAConfig/zxing-zxing-3.4.1/javase-3.5.0.jar!/" />
+      <root url="jar://C:/software/JAVAConfig/zxing-zxing-3.4.1/core-3.5.0.jar!/" />
+      <root url="jar://C:/software/JAVAConfig/zxing-zxing-3.4.1/jcommander-1.82.jar!/" />
+      <root url="jar://C:/software/JAVAConfig/zxing-zxing-3.4.1/jai-imageio-core-1.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
